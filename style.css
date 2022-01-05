@@ -87,5 +87,14 @@ p{
     background-size: 300px 300px;
     background-position: right;
 }
+#text-decore{
+    color: white;
+    background-color: black;
+    text-align: center;
+
+}
+.p-color{
+    color: gray;
+}
 
 
