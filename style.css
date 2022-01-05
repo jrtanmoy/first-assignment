@@ -1,0 +1,77 @@
+body{
+    font-family: 'Abhaya Libre', serif;
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Taviraj', serif;
+    margin: 20px;
+}
+h1{
+     font-size: 50px;
+}
+h2{
+    font-size: 40px;
+    text-align: center;
+}
+.border{
+    border-image: linear-gradient(purple,tomato);
+    border-image-slice: 1;
+    border-left: 7px solid;
+    padding-left: 20px;
+}
+.Seagreen{
+    color: seagreen;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(lightgreen,seagreen);
+    color: white;
+    font-weight: 500;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.flexable-containar{
+    display: flex;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.half-width{
+    width: 50%;
+    padding: 10%;
+}
+.half-width img{
+    width: 90%;
+}
+p{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+#mission{
+    background-color: aquamarine; 
+}
+#vission{
+    background-color: lightblue;
+}
+#goals{
+    background-color: blanchedalmond;
+}
+
+.my-plan{
+    width: 350px;
+    border: 2px solid gray;
+    box-shadow: 4px 4px 10px gray;
+    border-radius: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+.my-plan img{
+    width: 30%;
+    padding-left: 40px;
+    
+}
+.border-space{
+    justify-content: space-around;
+    padding: 50px;
+}
