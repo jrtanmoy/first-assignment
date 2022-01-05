@@ -75,11 +75,17 @@ p{
     justify-content: space-around;
     padding: 50px;
 }
-.developer{
+.first-six{
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
     background-size: 300px 300px;
     background-position: left;
+}
+.last-six{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: right;
 }
 
 
