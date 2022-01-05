@@ -9,7 +9,7 @@ body{
 h1{
      font-size: 50px;
 }
-h2{
+#text-placement{
     font-size: 40px;
     text-align: center;
 }
@@ -75,3 +75,11 @@ p{
     justify-content: space-around;
     padding: 50px;
 }
+.developer{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 300px 300px;
+    background-position: left;
+}
+
+
